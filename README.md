@@ -3,7 +3,7 @@
 Nama      : Robi Abda'u
 NIM       : 311910563
 Kelas     : TI.19.B1
-M. Kuliah : Sistem Basis Data
+M. Kuliah : Sistem Basis Data - Tugas 8
 Dosen     : M Najamuddin Dwi Miharja, S.Kom, M.Kom
 ```
 **Koneksi Database Mysql Ke PHP Judul "Sistem Inventory"
@@ -17,13 +17,13 @@ ada 4 tabel**
 
 4. Tabel Transaction details
 
-**Desain DataBase**
+**Design DataBase**
 
 ![database](https://user-images.githubusercontent.com/81896427/123502385-24fd5800-d676-11eb-9c43-6c9970568f8f.png)
 
 
 
-**Desain Home**
+**Design Home**
 
 ![home1](https://user-images.githubusercontent.com/81896427/123500335-9681da00-d667-11eb-99ff-a9889287c419.png)
 
