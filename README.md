@@ -19,7 +19,8 @@ ada 4 tabel**
 
 **Desain DataBase**
 
-![database](https://user-images.githubusercontent.com/81896427/123500318-794d0b80-d667-11eb-9375-dd3e227887b3.png)
+![database](https://user-images.githubusercontent.com/81896427/123502385-24fd5800-d676-11eb-9c43-6c9970568f8f.png)
+
 
 
 **Desain Home**
