@@ -25,7 +25,8 @@ ada 4 tabel**
 
 **Design Home**
 
-![home1](https://user-images.githubusercontent.com/81896427/123500335-9681da00-d667-11eb-99ff-a9889287c419.png)
+![home1](https://user-images.githubusercontent.com/81896427/123502779-13697f80-d679-11eb-84cc-1b6a6af88adf.png)
+
 
 ![home2](https://user-images.githubusercontent.com/81896427/123500337-97b30700-d667-11eb-97b2-ab3a14201698.png)
 
